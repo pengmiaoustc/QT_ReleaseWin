@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BUart version="1.1" baudRate="921600" dataBits="8 bits" parity="Odd" stopBits="1 Stop">
+    <BlockMode  ctrlByte="2F" prefixByte="3C" suffixByte="3E"></BlockMode>
+</BUart>
